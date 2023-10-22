@@ -6,15 +6,16 @@ class Program
     {
         Console.Write("Введите число: ");
         int number = int.Parse(Console.ReadLine());
+        string numberStr = number.ToString();
 
-        if (number >= 100 && number <= 999)
+        if (numberStr.Length >= 3)
         {
-            int thirdDigit = (number) % 10;
-            Console.WriteLine($"Третья цифра числа: {thirdDigit}");
+            char thirdDigit = numberStr[2];
+            Console.WriteLine("Третья цифра: " + thirdDigit);
         }
         else
         {
-            Console.WriteLine("Третьей цифры нет.");
+            Console.WriteLine("Третьей цифры нет");
         }
     }
 }
