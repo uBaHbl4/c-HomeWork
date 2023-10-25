@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\GB\c#\HW\Task41\bin\Debug\net8.0\Task41.exe
+C:\Users\user\Desktop\GB\c#\HW\Task41\bin\Debug\net8.0\Task41.deps.json
+C:\Users\user\Desktop\GB\c#\HW\Task41\bin\Debug\net8.0\Task41.runtimeconfig.json
+C:\Users\user\Desktop\GB\c#\HW\Task41\bin\Debug\net8.0\Task41.dll
+C:\Users\user\Desktop\GB\c#\HW\Task41\bin\Debug\net8.0\Task41.pdb
+C:\Users\user\Desktop\GB\c#\HW\Task41\obj\Debug\net8.0\Task41.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\GB\c#\HW\Task41\obj\Debug\net8.0\Task41.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\GB\c#\HW\Task41\obj\Debug\net8.0\Task41.AssemblyInfo.cs
+C:\Users\user\Desktop\GB\c#\HW\Task41\obj\Debug\net8.0\Task41.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\GB\c#\HW\Task41\obj\Debug\net8.0\Task41.sourcelink.json
+C:\Users\user\Desktop\GB\c#\HW\Task41\obj\Debug\net8.0\Task41.dll
+C:\Users\user\Desktop\GB\c#\HW\Task41\obj\Debug\net8.0\refint\Task41.dll
+C:\Users\user\Desktop\GB\c#\HW\Task41\obj\Debug\net8.0\Task41.pdb
+C:\Users\user\Desktop\GB\c#\HW\Task41\obj\Debug\net8.0\Task41.genruntimeconfig.cache
+C:\Users\user\Desktop\GB\c#\HW\Task41\obj\Debug\net8.0\ref\Task41.dll
